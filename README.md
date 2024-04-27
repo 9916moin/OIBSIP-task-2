@@ -6,11 +6,13 @@ This project is a tribute page dedicated to Dr. APJ Abdul Kalam, the renowned In
 Dr. APJ Abdul Kalam, also known as the "Missile Man of India," was born on October 15, 1931, in Rameswaram, Tamil Nadu. He made significant contributions to India's missile and nuclear weapon projects. Despite his remarkable achievements, Kalam remained a humble and unassuming individual who had a deep passion for literature and writing.
 <br>
 <h4>Features</h4>
-Introduction: Provides a brief overview of Dr. APJ Abdul Kalam's life and accomplishments.
-Timeline: Presents a chronological timeline highlighting key events and milestones in Kalam's life, from his birth to his passing.
-Famous Books: Lists some of Dr. Kalam's notable literary works, showcasing his talent as an author and thinker.
-Honors Received: Enumerates the prestigious awards and honors bestowed upon Dr. Kalam throughout his lifetime.
-External Links: Includes links for further reading about Dr. Kalam on Wikipedia and a list of his books.
+<br>
+<h3>Introduction:</h3> 
+# Provides a brief overview of Dr. APJ Abdul Kalam's life and accomplishments.<br>
+# Timeline: Presents a chronological timeline highlighting key events and milestones in Kalam's life, from his birth to his passing.<br>
+<h3>Famous Books:</h3> Lists some of Dr. Kalam's notable literary works, showcasing his talent as an author and thinker.<br>
+Honors Received: Enumerates the prestigious awards and honors bestowed upon Dr. Kalam throughout his lifetime.<br>
+External Links: Includes links for further reading about Dr. Kalam on Wikipedia and a list of his books.<br>
 Usage
 Simply open the index.html file in a web browser to access the tribute page.
 
