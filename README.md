@@ -8,13 +8,15 @@ Dr. APJ Abdul Kalam, also known as the "Missile Man of India," was born on Octob
 <h4>Features</h4>
 <br>
 <h3>Introduction:</h3> 
-# Provides a brief overview of Dr. APJ Abdul Kalam's life and accomplishments.<br>
-# Timeline: Presents a chronological timeline highlighting key events and milestones in Kalam's life, from his birth to his passing.<br>
-<h3>Famous Books:</h3> Lists some of Dr. Kalam's notable literary works, showcasing his talent as an author and thinker.<br>
-Honors Received: Enumerates the prestigious awards and honors bestowed upon Dr. Kalam throughout his lifetime.<br>
-External Links: Includes links for further reading about Dr. Kalam on Wikipedia and a list of his books.<br>
-Usage
-Simply open the index.html file in a web browser to access the tribute page.
+Provides a brief overview of Dr. APJ Abdul Kalam's life and accomplishments.<br>   
 
-Author
+
+<h3>Timeline:</h3> Presents a chronological timeline highlighting key events and milestones in Kalam's life, from his birth to his passing.<br>
+
+<h3>Famous Books:</h3> Lists some of Dr. Kalam's notable literary works, showcasing his talent as an author and thinker.<br>
+<h3>Honors Received:</h3> Enumerates the prestigious awards and honors bestowed upon Dr. Kalam throughout his lifetime.<br>
+<h3>External Links:</h3> Includes links for further reading about Dr. Kalam on Wikipedia and a list of his books.<br>
+
+
+<h4>Author</h4><br>
 This tribute page was created by Moin Pasha.
